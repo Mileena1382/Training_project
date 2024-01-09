@@ -1,0 +1,122 @@
+.container-fluid{
+/* background: linear-gradient(to bottom right, rgba(240, 147, 251, 1), rgba(245, 87, 108, 1)); */
+margin: 5px;
+background-color: rgb(4, 9, 78);
+}
+.container-fluid {
+ 
+   
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    padding-top: 70px;
+    
+   
+  }
+
+  .spaced{
+    margin-top: 20px;
+    padding: 10px;
+  }
+  .small-container {
+    background-color: #3c0b8a;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    overflow-x: hidden;
+    color: white;
+    
+  }
+  .second-container{
+    background-color: black;
+    color:white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    overflow-x: hidden;
+
+
+  }
+  .resume-container1{
+    overflow-x: hidden;
+    background: linear-gradient(to right, #6466e6, #9198e5);
+  }
+  .resume-container2{
+    overflow-x: hidden;
+    background-color:white;
+    border: 5px solid black !important;  
+    border-radius: 30px;
+  }
+  
+  
+  .answer-color {
+    background-color: #a9d3f2; 
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+ 
+  .spaced {
+    margin-bottom: 20px;
+  }
+  
+ 
+  .name-post {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .container{
+    margin: 0px;
+   overflow-x: hidden;
+  
+  }
+  .profile-col {
+    text-align: center;
+  }
+  
+  .profile-picture {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 8px solid #ffffff; /* White border around the picture */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional: Add a box shadow */
+   
+  }
+  
+  .profile-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+  }
+  .right-colum{
+    /* padding-top: 100px; */
+    overflow-x: hidden;
+
+  }
+  .emp-name{
+    color: white;
+    font-size: xx-large;
+    margin-left: 40%;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .button-download{
+    margin-bottom: 5%;
+    margin-left: 80%;
+    overflow-x: hidden;
+  }
+  
+.qwerty{
+  padding-left: 50%;
+}
+
+
+#download-container {
+  border-radius: 5px solid black;
+}
+
